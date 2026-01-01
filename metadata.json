@@ -1,0 +1,9 @@
+{
+  "name": "Nexus Universe OS",
+  "description": "A high-dimensional dashboard platform orchestrating everything from personal finance to galactic resource management and quantum reality weaving.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
